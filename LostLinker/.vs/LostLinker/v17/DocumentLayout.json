@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\repos\\LostLinker\\LostLinker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|e:\\source\\repos\\lostlinker\\lostlinker\\lostlinker\\login\\querytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|solutionrelative:lostlinker\\login\\querytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|e:\\source\\repos\\lostlinker\\lostlinker\\lostlinker\\login\\querytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|solutionrelative:lostlinker\\login\\querytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|e:\\source\\repos\\lostlinker\\lostlinker\\lostlinker\\login\\loginn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|solutionrelative:lostlinker\\login\\loginn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|e:\\source\\repos\\lostlinker\\lostlinker\\lostlinker\\login\\loginn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|solutionrelative:lostlinker\\login\\loginn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|e:\\source\\repos\\lostlinker\\lostlinker\\lostlinker\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|solutionrelative:lostlinker\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|e:\\source\\repos\\lostlinker\\lostlinker\\lostlinker\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{495D07BD-E5B3-4562-986E-1CEC669BB2F7}|LostLinker\\LostLinker.csproj|solutionrelative:lostlinker\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "querytests.cs",
+              "DocumentMoniker": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\querytests.cs",
+              "RelativeDocumentMoniker": "LostLinker\\login\\querytests.cs",
+              "ToolTip": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\querytests.cs*",
+              "RelativeToolTip": "LostLinker\\login\\querytests.cs*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:00:54.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginn.cs",
+              "DocumentMoniker": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\loginn.cs",
+              "RelativeDocumentMoniker": "LostLinker\\login\\loginn.cs",
+              "ToolTip": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\loginn.cs",
+              "RelativeToolTip": "LostLinker\\login\\loginn.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:14.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginn.cs [Design]",
+              "DocumentMoniker": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\loginn.cs",
+              "RelativeDocumentMoniker": "LostLinker\\login\\loginn.cs",
+              "ToolTip": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\loginn.cs [Design]",
+              "RelativeToolTip": "LostLinker\\login\\loginn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:13.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "querytests.cs [Design]",
+              "DocumentMoniker": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\querytests.cs",
+              "RelativeDocumentMoniker": "LostLinker\\login\\querytests.cs",
+              "ToolTip": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\login\\querytests.cs [Design]*",
+              "RelativeToolTip": "LostLinker\\login\\querytests.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:49:11.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "usermenu.cs",
+              "DocumentMoniker": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\menu\\usermenu.cs",
+              "RelativeDocumentMoniker": "LostLinker\\menu\\usermenu.cs",
+              "ToolTip": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\menu\\usermenu.cs",
+              "RelativeToolTip": "LostLinker\\menu\\usermenu.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAqwOYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:19:59.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "usermenu.cs [Design]",
+              "DocumentMoniker": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\menu\\usermenu.cs",
+              "RelativeDocumentMoniker": "LostLinker\\menu\\usermenu.cs",
+              "ToolTip": "E:\\source\\repos\\LostLinker\\LostLinker\\LostLinker\\menu\\usermenu.cs [Design]",
+              "RelativeToolTip": "LostLinker\\menu\\usermenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:18:58.784Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
